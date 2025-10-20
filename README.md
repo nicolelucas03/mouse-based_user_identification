@@ -4,7 +4,7 @@
 **Email**: nicoleclucas003@gmail.com 
 
 ### Tools Used :wrench: 
-* **Python**
+- **Python**
 - **Jupyter Notebook**
 - **LaTeX**
   
