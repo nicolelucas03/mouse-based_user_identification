@@ -1,4 +1,4 @@
-## Exploring Mouse-Based User Identification
+# Exploring Mouse-Based User Identification
 **Co-Author**: Nicole Lucas
 
 **Email**: nicoleclucas003@gmail.com 
